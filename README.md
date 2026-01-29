@@ -1,0 +1,1 @@
+Analicé datos de visitas, pedidos y gastos de marketing para entender el comportamiento de los usuarios, calcular métricas clave como LTV y CAC, y generar insights que optimizan la eficiencia de las estrategias de marketing.
